@@ -1,6 +1,6 @@
 1:I["6d786e16fc6b",[],"ErrorBoundary",1]
-2:I["3fb973e28314",[],"Children",1]
-3:I["3fb973e28314",[],"Slot",1]
+2:I["c5da45e10b5d",[],"Children",1]
+3:I["c5da45e10b5d",[],"Slot",1]
 4:I["6d786e16fc6b",[],"Link",1]
 :HL["/zustand-banner-sponsorship/assets/_layout-C0vAXuSx.css","stylesheet"]
 :HL["https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400;1,700&display=swap","stylesheet"]
