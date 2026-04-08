@@ -6,7 +6,7 @@
   import("/zustand-banner-sponsorship/assets/index-DedOTiWq.js")
 globalThis.__WAKU_ROUTER_PREFETCH__ = (path, callback) => {
   const ids = ["/zustand-banner-sponsorship/assets/client-Dk4lg7Ez.js","/zustand-banner-sponsorship/assets/index-DedOTiWq.js"];
-  const path2idxs = {"^/$":[0,1],"^/api/banner.png$":[0,1],"^/sponsors$":[0,1]};
+  const path2idxs = {"^/$":[0,1],"^/sponsors$":[0,1]};
   const key = Object.keys(path2idxs).find((key) => new RegExp(key).test(path));
   for (const idx of path2idxs[key] || []) {
     callback(ids[idx]);
